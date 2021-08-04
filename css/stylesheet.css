@@ -1,0 +1,31 @@
+body {
+ background-color: palevioletred;
+ border: solid black 6px;
+}
+
+.head {
+  
+  color: black;
+  font-family: cursive;
+  text-align: center;
+}
+
+.aboutme {
+  background-color: khaki;
+  font-size: larger;
+}
+
+.post1 {
+  background-color: deeppink;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.post2 {
+  background-color: fuchsia;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.post3 {
+  background-color: hotpink;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
